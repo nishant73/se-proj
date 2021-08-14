@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>uname 40.png</file>
+    <file>pass2 40.png</file>
+  </qresource>
+</RCC>
